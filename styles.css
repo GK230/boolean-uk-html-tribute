@@ -49,8 +49,10 @@ h1 {
   position: absolute;
   top: 190%;
   left: 10%;
+  display: grid-template-columns;
 }
 
 h2 {
   text-align: center;
+  font-size: 2em;
 }
