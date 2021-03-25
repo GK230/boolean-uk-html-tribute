@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/russian-background-vector-illustration-world-russia-pattern-modern-traditional-elements-76614126.jpg);
+}
+h1 {
+  text-align: center;
+  margin-top: 5%;
+  font-family: serif;
+  font-size: 4em;
+}
+
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: grey solid;
+  padding: 3%;
+  background-color: grey;
+}
+
+.main-image-description {
+  text-align: center;
+}
+
+.letter {
+  position: absolute;
+  left: 20%;
+  top: 100%;
+  width: 50%;
+  font-family: cursive;
+  background-color: white;
+  padding: 3%;
+  border-style: inset;
+  border-color: grey;
+  font-size: 1.2em;
+}
+
+.main-letter {
+  position: relative;
+  left: 5%;
+  width: 85%;
+}
+
+.from-letter {
+  position: relative;
+  left: 60%;
+}
+
+.images {
+  position: absolute;
+  top: 190%;
+  left: 10%;
+}
+
+h2 {
+  text-align: center;
+}
