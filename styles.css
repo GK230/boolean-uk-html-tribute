@@ -47,12 +47,20 @@ h1 {
 
 .images {
   position: absolute;
+  display: block;
   top: 190%;
   left: 10%;
   display: grid-template-columns;
+  grid-gap: 200px;
+  margin-bottom: 500px;
+  padding-bottom: 3%;
 }
 
 h2 {
   text-align: center;
   font-size: 2em;
+}
+
+.advice {
+  text-align: center;
 }
